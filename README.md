@@ -3,7 +3,7 @@
 Simple web app built using Vanilla JavaScript to keep a track record of your books.
 Uses the concepts of Objects and Classes.
 
-Functionalities are:
+#### Functionalities are:
 
 - Add a book.
 - Remove a book.
